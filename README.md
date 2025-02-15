@@ -48,7 +48,7 @@ This is a very high quality dataset of playing card images. All images are 224 X
 - [Rob Mulla](https://www.youtube.com/watch?v=tHL5STNJKag)
 
 ### Bonus
-**glob:**he glob module in Python is used to find all file paths that match a specified pattern, similar to Unix shell-style wildcards.
+**glob:** the glob module in Python is used to find all file paths that match a specified pattern, similar to Unix shell-style wildcards.
 It’s particularly useful for directory traversal and working with filenames that follow a specific naming pattern.
 ```python
 import glob
